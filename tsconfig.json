@@ -15,7 +15,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@energy-drinks-workspace/material": ["libs/material/src/index.ts"],
+      "@energy-drinks-workspace/ui-login": ["libs/ui-login/src/index.ts"],
+      "@energy-drinks-workspace/core-data": ["libs/core-data/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
