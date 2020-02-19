@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { Drinks } from './energy-drinks';
 
 const BASE_URL = 'https://kenneth-server.herokuapp.com/';
 

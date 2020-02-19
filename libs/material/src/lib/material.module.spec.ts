@@ -1,14 +1,14 @@
 // import { async, TestBed } from '@angular/core/testing';
-// import { CoreDataModule } from './core-data.module';
+// import { MaterialModule } from './material.module';
 
-// describe('CoreDataModule', () => {
+// describe('MaterialModule', () => {
 //   beforeEach(async(() => {
 //     TestBed.configureTestingModule({
-//       imports: [CoreDataModule]
+//       imports: [MaterialModule]
 //     }).compileComponents();
 //   }));
 
 //   it('should create', () => {
-//     expect(CoreDataModule).toBeDefined();
+//     expect(MaterialModule).toBeDefined();
 //   });
 // });
